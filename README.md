@@ -1,5 +1,5 @@
 # My-Portfolio
-#Sumanth Mohan Portfolio
+#Sumanth Mohan Portfolio - Please click on Project-Name to view Project Files.
 
 # [Project 1: KPMG Virtual Internship ](https://github.com/Sumanth3493/KPMG-Virtual-Internship)
 I successfully worked on completing the Internship program using various data science methadologies, namely : Data Quality Assessment, Data Insights, Data Insights and Presentation
@@ -15,3 +15,4 @@ In this Project I demonstrate the Natual Language processing on the application 
 
 # [Project 5: Python Project to demonstrate AND-and-OR-Functions and draw activation functions](https://github.com/Sumanth3493/Python-Project-to-demonstrate-AND-and-OR-functions-and-draw-Activation-Functions)
 This was another academic Project which I pursued in my 3rd semester to draw activation functions upon the demonstration of AND-and-OR functions
+
