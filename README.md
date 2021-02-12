@@ -2,7 +2,7 @@
 #Sumanth Mohan Portfolio - Please click on Project-Name to view Project Files.
 
 # [Project 1: KPMG Virtual Internship ](https://github.com/Sumanth3493/KPMG-Virtual-Internship)
-I successfully worked on completing the Internship program using various data science methadologies, namely : Data Quality Assessment, Data Insights, Data Insights and Presentation
+I successfully Completed the Internship program with KPMG Virtually. It was a tremendous experience where my python, data visulaization and advanced excel skills were tested.In this internships tasks were assigned by a tutor and I successfully completed these tasks?( total of 3 tasks). Once I submit my answers it is reviewd by my supervisor at KPMG and feedback is shared along with the model answers. I worked on various data science methadologies, namely : Data Quality Assessment, Data Insights, Data Insights and Presentation
 
 # [Project 2: Neural Networks using Python](https://github.com/Sumanth3493/Neural-Networks-using-Python) 
 In this Project I have created Neural Networks using Python. This was my project in the 3rd semester of studies. I performed a number of operations, they are :Take inputs,Add bias (if required), Assign random weights to input features,Run the code for training, Find the error in prediction, Update the weight by gradient descent algorithm, Repeat the training phase with updated weights, Make predictions
