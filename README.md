@@ -1,9 +1,8 @@
 # My-Portfolio
 #Sumanth Mohan Portfolio
-
 #[Project 1 : KPMG Virtual Internship ](https://github.com/Sumanth3493/KPMG-Virtual-Internship): KPMG Virtual Internship Program I successfully worked on completing the Internship program using various data science methadologies, namely : Data Quality Assessment, Data Insights, Data Insights and Presentation
 
-#[Project 2]() : Neural Networks using Python Programming In this Project I have created Neural Networks using Python. This was my project in the 3rd semester of studies. I performed a number of operations, they are :Take inputs,Add bias (if required), Assign random weights to input features,Run the code for training, Find the error in prediction, Update the weight by gradient descent algorithm, Repeat the training phase with updated weights, Make predictions
+#[Project 2 : Neural Networks using Python](https://github.com/Sumanth3493/Neural-Networks-using-Python) : Neural Networks using Python Programming In this Project I have created Neural Networks using Python. This was my project in the 3rd semester of studies. I performed a number of operations, they are :Take inputs,Add bias (if required), Assign random weights to input features,Run the code for training, Find the error in prediction, Update the weight by gradient descent algorithm, Repeat the training phase with updated weights, Make predictions
 
 #Project 3:Supervised Learning using Python In this projected I applied supervised learning algorithms to test and train a ML model. I followed rigorous steps. some of which are Define Problem,Prepare Data, Evaluate Algorithms, Improve Results, Present Results.
 
