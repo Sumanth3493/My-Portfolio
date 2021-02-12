@@ -16,7 +16,7 @@ In this Project I demonstrate the Natual Language processing on the application 
 # [Project 5: Python Project to demonstrate AND-and-OR-Functions and draw activation functions](https://github.com/Sumanth3493/Python-Project-to-demonstrate-AND-and-OR-functions-and-draw-Activation-Functions)
 This was another academic Project which I pursued in my 3rd semester to draw activation functions upon the demonstration of AND-and-OR functions
 
-# [Project 6: Tableau-Desktop-Project](https://github.com/Sumanth3493/Tableau-Desktop-Project)
+# [Project 6: Tableau Desktop Project](https://github.com/Sumanth3493/Tableau-Desktop-Project)
 This was a data visualization Project where I worked on Demonstration of data collection, cleaning and visualization on Tableau Desktop. An Existing Data Set was shared by the professor and I had to extract, visualize and display data on the Tableau Interface.
 
 
