@@ -30,4 +30,8 @@ This project aims to monitor all process in the company like the production, man
 This is one of the Java Projects I worked on in the 1st semester. The Aim of the Project is to demonstrate the working and calculating the BMI/BMR in animals and Human beings. the coding has been done in Java programming. This was a Group Project where we made use of Core java concepts of Inheritance, Polymorphism and abstraction.
 We also made use of servlets and JDBC.
 
+#[Project 10: Deploying Analytics on a website using Google Tags and Google Analytics](https://github.com/Sumanth3493/Google-Analytics-and-Google-Tag-Management-to-Implement-Tags-to-Track-users-in-Real-Time)
+In this Project, I have Implemented Tags on Google Analytics and Google Tag Management. This was done to track users in real time based on country,city and province. Users who visit the website https://www.nextgencloud.xyz/ are tracked , website traffic is analysed and business model is Implemented.
+
+
 
