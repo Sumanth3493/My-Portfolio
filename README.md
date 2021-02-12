@@ -9,4 +9,4 @@
 
 #Project 4: Demonstrating Natural Language Processing In this Project I demonstrate the Natual Language processing on the application of the following steps :lexical (structure) analysis, parsing, semantic analysis, discourse integration, and pragmatic analysis. Some well-known application areas of NLP are Optical Character Recognition (OCR), Speech Recognition, Machine Translation, and Chatbots
 
-#Project 5:Python Project to demonstrate AND-and-OR-Functions and draw activation functions This was another academic Project which I pursued in my 3rd semester to draw activation functions upon the demonstration of AND-and-OR functions.
+#Project 5:Python Project to demonstrate AND-and-OR-Functions and draw activation functions This was another academic Project which I pursued in my 3rd semester to draw activation functions upon the demonstration of AND-and-OR functions
