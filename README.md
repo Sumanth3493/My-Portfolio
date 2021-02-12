@@ -14,12 +14,20 @@ Supervised Learning using Python In this projected I applied supervised learning
 In this Project I demonstrate the Natual Language processing on the application of the following steps :lexical (structure) analysis, parsing, semantic analysis, discourse integration, and pragmatic analysis. Some well-known application areas of NLP are Optical Character Recognition (OCR), Speech Recognition, Machine Translation, and Chatbots
 
 # [Project 5: Python Project to demonstrate AND-and-OR-Functions and draw activation functions](https://github.com/Sumanth3493/Python-Project-to-demonstrate-AND-and-OR-functions-and-draw-Activation-Functions)
-This was another academic Project which I pursued in my 3rd semester to draw activation functions upon the demonstration of AND-and-OR functions
+This was another academic Project which I pursued in my 3rd semester to draw activation functions upon the demonstration of AND-and-OR functions. The Project was coded using python programming on Jupyter Notebooks where I Use Neural network for implantation of ‘AND’ and ‘OR’ functions by using Python language. Output is shown in a graph (for visualization of ‘AND’ and ‘OR’) and also Shows the equation of the line - Mention the weight, What is the bias, Show the calculation in a table as well 2. I also Use Python to draw Activation functions - Sigmoid - Hyperbolic tangent - ReLU and  A graph to superimpose all three.
+
 
 # [Project 6: Tableau Desktop Project](https://github.com/Sumanth3493/Tableau-Desktop-Project)
 This was a data visualization Project where I worked on Demonstration of data collection, cleaning and visualization on Tableau Desktop. An Existing Data Set was shared by the professor and I had to extract, visualize and display data on the Tableau Interface.
 
 # [Project 7: Twitter Sentiment Analysis](https://github.com/Sumanth3493/Twitter-Sentiment-Analysis)
 This was a Project to find perform sentiment analysis on Twitter. I got valuable experience of collecting data from Twitter using Twitter API , experience of data storage to store the data and query,  collecting real-time data and experience of data cleaning
+
+# [Project 8: Database Design Project](https://github.com/Sumanth3493/Database-Project)
+This project aims to monitor all process in the company like the production, manufacturing, purchase of raw materials, production of processed cloth and generating bills. As these works are done manually at the company at present it takes a lot of time to complete the work. The main goal of this project is to reduce manual works, increase the processing speed and ensure reliability of data. All process needed for the textile management is recorded for providing good information to the concern. All concepts of database design and development right from the creation of tables, Normalizing our tables to the 3rd Normal Form and also adding constraints to resolving relationships have been explained in this report
+
+#[Project 9: Java Project](https://github.com/Sumanth3493/FinalJavaProject)
+This is one of the Java Projects I worked on in the 1st semester. The Aim of the Project is to demonstrate the working and calculating the BMI/BMR in animals and Human beings. the coding has been done in Java programming. This was a Group Project where we made use of Core java concepts of Inheritance, Polymorphism and abstraction.
+We also made use of servlets and JDBC.
 
 
