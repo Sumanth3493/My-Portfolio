@@ -19,4 +19,7 @@ This was another academic Project which I pursued in my 3rd semester to draw act
 # [Project 6: Tableau Desktop Project](https://github.com/Sumanth3493/Tableau-Desktop-Project)
 This was a data visualization Project where I worked on Demonstration of data collection, cleaning and visualization on Tableau Desktop. An Existing Data Set was shared by the professor and I had to extract, visualize and display data on the Tableau Interface.
 
+# [Project 7: Twitter Sentiment Analysis](https://github.com/Sumanth3493/Twitter-Sentiment-Analysis)
+This was a Project to find perform sentiment analysis on Twitter. I got valuable experience of collecting data from Twitter using Twitter API , experience of data storage to store the data and query,  collecting real-time data and experience of data cleaning
+
 
